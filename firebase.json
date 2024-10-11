@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "5-star",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

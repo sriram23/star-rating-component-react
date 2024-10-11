@@ -47,6 +47,7 @@
   color: transparent;
   -webkit-text-stroke: 1px black;
   cursor: pointer;
+  transition: color 100ms linear;
 }
 .star-rated {
   color: #FFD700;
